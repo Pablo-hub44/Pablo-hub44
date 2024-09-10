@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,ts,vscode,angular,spring,laravel,scala,vuejs,sass,bitbucket,postgresql,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,ts,vscode,angular,spring,laravel,scala,vuejs,sass,bitbucket,postgresql,php,kubernetes&perline=14" />
   </a>
 </p>
 
